@@ -1,7 +1,7 @@
 # BackendZadanieRekrutacyjne
 
 
-1. Zadanie Django Rest
+##  Zadanie Django Rest
 
 Właściciel stacji benzynowej pilnie poszukuje osoby potrafiącej stworzyć bazę danych niezbędną do sprawnego przyjmowania zamówień. W bazie tej mają się znaleźć informacje o kupujących, klasa benzyny ( 95oktanów , 98oktanów ), typach benzyny ( diesel, benzyna, gaz ), zakupionym typie oraz rodaju benzyny:
 Pamiętaj, że
@@ -22,3 +22,8 @@ Przygotuj diagram ERD
 6. Zaimplementuj metodę zapisywania zdjęć do dowolnego zewnętrznego dostawcy np. cloudinary
 7. Zainstaluj /swagger lub openapi by generowało się automatycznie z API
 8. Uruchom API na zewnętrznym linku
+
+## Zadanie opcjonalne ( Zaimplementuj testy dla API poszczególnych endpointów oraz modeli )
+
+
+
